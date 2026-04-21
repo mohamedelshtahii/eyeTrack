@@ -5,15 +5,14 @@
 
 **Eye Infection Recovery Dashboard (Browser‑Only AI Tool)**
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/e448edce-6330-415e-8637-c2b3fb731db4" />
-
 A lightweight, privacy‑first web app that tracks eye infection recovery in real time using your webcam, computer vision, and optional AI voice guidance.
 
 
+https://img.shields.io/badge/status-active-10b981?style=flat-square
+https://img.shields.io/badge/backend-none-3b82f6?style=flat-square
+https://img.shields.io/badge/license-MIT-6366f1?style=flat-square
 
-![eyetrack preview](https://github.com/user-attachments/assets/67b00884-4de4-4b81-926c-01ebb5c8a7fe)
-
----
+<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/e448edce-6330-415e-8637-c2b3fb731db4" />
 
 ## ✨ What is eyetrack?
 
