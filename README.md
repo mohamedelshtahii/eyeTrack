@@ -9,8 +9,7 @@
 
 A lightweight, privacy‑first web app that tracks eye infection recovery in real time using your webcam, computer vision, and optional AI voice guidance.
 
-![backend](https://img.shields.io/badge/backend-none-3b82f6?style=flat)
-![license](https://img.shields.io/badge/license-MIT-6366f1?style=flat)
+
 
 ![eyetrack preview](https://github.com/user-attachments/assets/67b00884-4de4-4b81-926c-01ebb5c8a7fe)
 
