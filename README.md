@@ -8,7 +8,7 @@
 A lightweight, privacy‑first web app that tracks eye infection recovery in real time using your webcam, computer vision, and optional AI voice guidance.
 
 
-<img width="700" height="960" alt="image" src="https://github.com/user-attachments/assets/e448edce-6330-415e-8637-c2b3fb731db4" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/e448edce-6330-415e-8637-c2b3fb731db4" />
 
 ## ✨ What is eyetrack?
 
