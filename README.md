@@ -1,4 +1,4 @@
-# eyetrack 👁️
+# eye-scope - Ai 👁️
 ## 🌐 Live Demo
 
 👉 https://vocal-starship-6b4f11.netlify.app/
@@ -12,7 +12,7 @@ A lightweight, privacy‑first web app that tracks eye infection recovery in rea
 
 ## ✨ What is eyetrack?
 
-**eyetrack** is a fully client‑side dashboard that helps monitor recovery from eye infections (e.g. conjunctivitis, chalazion) by measuring eye openness, symmetry, and blinking using **MediaPipe Face Mesh**.
+**eye-scope - Ai** is a fully client‑side dashboard that helps monitor recovery from eye infections (e.g. conjunctivitis, chalazion) by measuring eye openness, symmetry, and blinking using **MediaPipe Face Mesh**.
 
 It can optionally connect to an AI assistant (**Iris**) that explains your condition using vision analysis and voice — all without a backend.
 
@@ -85,9 +85,13 @@ Claude Vision (browser fetch)
 Web Speech API / ElevenLabs
 localStorage
 
-eyetrack/
+## 📁 Project Structure
+
+```text
+eye-scope-ai/
 ├── index.html
-├── css/style.css
+├── css/
+│   └── style.css
 ├── js/
 │   ├── app.js
 │   ├── facetracker.js
@@ -95,7 +99,7 @@ eyetrack/
 │   ├── ai.js
 │   └── voice.js
 └── README.md
-
+``
 🔒 Privacy
 
 Webcam processed locally (MediaPipe WASM)
