@@ -9,7 +9,6 @@
 
 A lightweight, privacy‑first web app that tracks eye infection recovery in real time using your webcam, computer vision, and optional AI voice guidance.
 
-![status](https://img.shields.io/badge/status-active-10b981?style=flat)
 ![backend](https://img.shields.io/badge/backend-none-3b82f6?style=flat)
 ![license](https://img.shields.io/badge/license-MIT-6366f1?style=flat)
 
